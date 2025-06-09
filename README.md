@@ -10,3 +10,15 @@ Adding support for more advanced filtering and querying capabilities
 Improving error handling and debugging
 Adding security features, such as authentication and authorization
 
+
+**
+Start the view server**
+Bash
+cargo run
+Start the client simulator
+Bash
+cargo run --bin client_simulator
+Start the React app
+Bash
+npm start
+Open your web browser and navigate to http://localhost:3000 to see the real-time data updates
